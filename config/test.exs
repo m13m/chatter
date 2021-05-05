@@ -23,4 +23,5 @@ config :logger, level: :warn
 
 config :chatter, :sql_sandbox, true
 
-config :wallaby, driver: Wallaby.Chrome
+config :wallaby,
+  driver: Wallaby.Chrome
