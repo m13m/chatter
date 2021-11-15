@@ -1,0 +1,3 @@
+[submodule "chatter"]
+	path = chatter
+	url = https://github.com/m13m/chatter.git
